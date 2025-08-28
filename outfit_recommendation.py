@@ -113,11 +113,8 @@ if st.button("Get Outfit Recommendation"):
                 log_outfit(int(outfit['outfit_id']))
                 st.success("Here's your outfit recommendation:")
                 st.markdown(f"**Outfit ID:** {outfit['outfit_id']}")
-
                 st.markdown(f"**Pants:** {outfit['pants']}")
                 st.color_picker("Pants Color", outfit['pants_color'], label_visibility="collapsed")
-
                 st.markdown(f"**Shirt:** {outfit['shirt']}")
                 st.color_picker("Shirt Color", outfit['shirt_color'], label_visibility="collapsed")
-
                 st.markdown(f"**Jacket:** {'Yes' if outfit['jacket'] else "No need for a jacket, it's quite warm out"}")
