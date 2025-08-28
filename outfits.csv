@@ -1,0 +1,101 @@
+outfit_id,pants,pants_color,shirt,shirt_color,tone,jacket
+1,trousers,#708090,white tee,#FFFFFF,neutral,FALSE
+2,jeans,#A52A2A,white tee,#808080,warm,TRUE
+3,sweatpants,#D2B48C,red flannel,#000000,neutral,TRUE
+4,cargo pants,#708090,red flannel,#808080,cool,TRUE
+5,trousers,#708090,grey polo,#808080,neutral,FALSE
+6,trousers,#2F4F4F,white tee,#000000,warm,FALSE
+7,cargo pants,#708090,red flannel,#8B0000,cool,TRUE
+8,sweatpants,#0000FF,red flannel,#8B0000,neutral,TRUE
+9,trousers,#D2B48C,grey polo,#8B0000,cool,TRUE
+10,jeans,#2F4F4F,red flannel,#8B0000,neutral,TRUE
+11,cargo pants,#0000FF,white tee,#ADD8E6,warm,FALSE
+12,chinos,#0000FF,red flannel,#FFFFFF,neutral,TRUE
+13,jeans,#2F4F4F,blue shirt,#8B0000,neutral,TRUE
+14,sweatpants,#0000FF,black shirt,#FFFFFF,neutral,FALSE
+15,chinos,#0000FF,grey polo,#000000,cool,FALSE
+16,cargo pants,#708090,grey polo,#8B0000,neutral,FALSE
+17,trousers,#D2B48C,black shirt,#8B0000,neutral,FALSE
+18,sweatpants,#2F4F4F,blue shirt,#000000,warm,TRUE
+19,sweatpants,#2F4F4F,blue shirt,#808080,neutral,TRUE
+20,chinos,#D2B48C,grey polo,#000000,neutral,FALSE
+21,jeans,#0000FF,black shirt,#FFFFFF,warm,FALSE
+22,jeans,#2F4F4F,white tee,#808080,warm,TRUE
+23,cargo pants,#2F4F4F,blue shirt,#808080,warm,FALSE
+24,trousers,#0000FF,grey polo,#000000,warm,FALSE
+25,chinos,#0000FF,blue shirt,#ADD8E6,cool,TRUE
+26,trousers,#0000FF,blue shirt,#808080,warm,TRUE
+27,cargo pants,#A52A2A,red flannel,#808080,neutral,TRUE
+28,chinos,#708090,black shirt,#8B0000,cool,TRUE
+29,sweatpants,#A52A2A,black shirt,#8B0000,cool,FALSE
+30,sweatpants,#D2B48C,blue shirt,#000000,neutral,TRUE
+31,trousers,#708090,blue shirt,#ADD8E6,neutral,FALSE
+32,chinos,#2F4F4F,white tee,#8B0000,warm,TRUE
+33,cargo pants,#0000FF,blue shirt,#ADD8E6,neutral,TRUE
+34,jeans,#2F4F4F,blue shirt,#8B0000,warm,TRUE
+35,sweatpants,#2F4F4F,blue shirt,#8B0000,cool,TRUE
+36,sweatpants,#708090,red flannel,#808080,warm,FALSE
+37,chinos,#0000FF,red flannel,#8B0000,warm,FALSE
+38,cargo pants,#0000FF,white tee,#ADD8E6,cool,FALSE
+39,sweatpants,#D2B48C,red flannel,#8B0000,neutral,FALSE
+40,sweatpants,#2F4F4F,white tee,#808080,neutral,TRUE
+41,jeans,#D2B48C,black shirt,#8B0000,warm,FALSE
+42,cargo pants,#A52A2A,black shirt,#808080,cool,TRUE
+43,jeans,#0000FF,grey polo,#FFFFFF,neutral,TRUE
+44,trousers,#708090,blue shirt,#808080,warm,FALSE
+45,chinos,#0000FF,red flannel,#ADD8E6,cool,TRUE
+46,jeans,#708090,red flannel,#808080,warm,FALSE
+47,jeans,#0000FF,red flannel,#8B0000,warm,TRUE
+48,trousers,#A52A2A,white tee,#FFFFFF,warm,FALSE
+49,cargo pants,#2F4F4F,grey polo,#8B0000,cool,TRUE
+50,trousers,#A52A2A,red flannel,#8B0000,cool,FALSE
+51,chinos,#2F4F4F,grey polo,#000000,cool,FALSE
+52,trousers,#708090,black shirt,#8B0000,warm,FALSE
+53,trousers,#D2B48C,white tee,#ADD8E6,cool,FALSE
+54,chinos,#D2B48C,blue shirt,#808080,warm,TRUE
+55,cargo pants,#2F4F4F,grey polo,#ADD8E6,neutral,FALSE
+56,chinos,#A52A2A,black shirt,#ADD8E6,warm,TRUE
+57,chinos,#D2B48C,grey polo,#ADD8E6,warm,FALSE
+58,jeans,#A52A2A,white tee,#ADD8E6,warm,TRUE
+59,trousers,#A52A2A,white tee,#808080,neutral,TRUE
+60,cargo pants,#2F4F4F,black shirt,#ADD8E6,warm,TRUE
+61,jeans,#2F4F4F,grey polo,#FFFFFF,neutral,TRUE
+62,cargo pants,#708090,white tee,#808080,neutral,FALSE
+63,sweatpants,#A52A2A,red flannel,#000000,warm,FALSE
+64,trousers,#2F4F4F,black shirt,#808080,cool,TRUE
+65,sweatpants,#708090,grey polo,#8B0000,cool,TRUE
+66,chinos,#D2B48C,black shirt,#000000,neutral,TRUE
+67,jeans,#708090,red flannel,#FFFFFF,neutral,TRUE
+68,cargo pants,#D2B48C,grey polo,#000000,neutral,TRUE
+69,trousers,#D2B48C,grey polo,#8B0000,cool,FALSE
+70,chinos,#708090,blue shirt,#8B0000,warm,TRUE
+71,jeans,#708090,grey polo,#808080,warm,FALSE
+72,jeans,#2F4F4F,grey polo,#ADD8E6,warm,TRUE
+73,jeans,#2F4F4F,white tee,#ADD8E6,cool,TRUE
+74,sweatpants,#2F4F4F,blue shirt,#8B0000,warm,FALSE
+75,sweatpants,#0000FF,blue shirt,#ADD8E6,neutral,FALSE
+76,sweatpants,#D2B48C,red flannel,#8B0000,cool,TRUE
+77,sweatpants,#D2B48C,white tee,#000000,warm,TRUE
+78,jeans,#D2B48C,grey polo,#ADD8E6,warm,TRUE
+79,chinos,#2F4F4F,red flannel,#808080,cool,FALSE
+80,chinos,#2F4F4F,blue shirt,#FFFFFF,warm,FALSE
+81,sweatpants,#708090,grey polo,#FFFFFF,neutral,TRUE
+82,chinos,#A52A2A,black shirt,#808080,warm,TRUE
+83,cargo pants,#2F4F4F,black shirt,#000000,cool,FALSE
+84,trousers,#D2B48C,grey polo,#FFFFFF,warm,FALSE
+85,jeans,#0000FF,grey polo,#8B0000,cool,TRUE
+86,cargo pants,#D2B48C,black shirt,#808080,cool,TRUE
+87,sweatpants,#708090,blue shirt,#FFFFFF,warm,FALSE
+88,trousers,#2F4F4F,white tee,#8B0000,cool,TRUE
+89,chinos,#2F4F4F,white tee,#000000,cool,TRUE
+90,sweatpants,#708090,black shirt,#8B0000,cool,FALSE
+91,trousers,#A52A2A,black shirt,#8B0000,cool,TRUE
+92,jeans,#A52A2A,blue shirt,#808080,cool,FALSE
+93,chinos,#2F4F4F,white tee,#FFFFFF,cool,TRUE
+94,trousers,#708090,white tee,#000000,neutral,FALSE
+95,sweatpants,#D2B48C,white tee,#808080,warm,TRUE
+96,cargo pants,#D2B48C,blue shirt,#8B0000,warm,FALSE
+97,sweatpants,#708090,blue shirt,#FFFFFF,cool,TRUE
+98,sweatpants,#2F4F4F,white tee,#8B0000,cool,FALSE
+99,cargo pants,#0000FF,grey polo,#000000,cool,FALSE
+100,trousers,#708090,blue shirt,#8B0000,cool,TRUE
