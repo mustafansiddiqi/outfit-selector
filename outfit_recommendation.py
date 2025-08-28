@@ -8,8 +8,6 @@ import os
 import time
 from sklearn.cluster import KMeans
 
-# CONFIG
-
 OUTFIT_CSV = "outfits.csv"
 HISTORY_CSV = "outfit_history.csv"
 JACKET_TEMP_THRESHOLD = 16
