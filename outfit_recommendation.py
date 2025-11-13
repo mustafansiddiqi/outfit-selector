@@ -95,9 +95,9 @@ if st.button("Get Outfit Recommendation"):
     else:
         with st.spinner("Matching tones..."):
             tone = get_skin_tone(uploaded_image)
-            time.sleep(1.5)
+            time.sleep(1.2)
 
-        with st.spinner("Analysing weather..."):
+        with st.spinner("Checking the weather..."):
             temp = get_weather(city)
             time.sleep(1.5)
 
